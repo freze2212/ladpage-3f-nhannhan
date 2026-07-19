@@ -42,7 +42,7 @@
     ];
 
     var realReviews = [];
-    var STORAGE_KEY = 'FLY88_all_reviews';
+    var STORAGE_KEY = 'GG88_all_reviews';
     var gridElement = null;
 
     function loadReviews() {
