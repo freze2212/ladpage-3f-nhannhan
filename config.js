@@ -1,4 +1,4 @@
-window.REDIRECT_URL = "https://www.gg8826.com/home/register?id=170291680";
+window.REDIRECT_URL = "";
 
 
 // Universal domains.json real-time synchronization
