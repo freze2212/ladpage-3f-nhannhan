@@ -57,9 +57,9 @@ body {
 }
 
 .logo {
-    width: 420px;
+    height: 104px;
+    width: auto;
     max-width: 90%;
-    height: auto;
     display: block;
     margin: 0 auto;
     /* Elegant subtle glow — no harsh neon */
@@ -724,7 +724,7 @@ body {
 
 /* === RESPONSIVE === */
 @media (max-width: 768px) {
-    .logo { width: 320px; }
+    .logo { height: 79px; }
     .flag { width: 76px; height: 76px; }
     .flag-item { min-width: 105px; }
     .seo-content { padding: 28px 20px; }
@@ -734,7 +734,7 @@ body {
 
 @media (max-width: 480px) {
     .content { padding: 28px 14px 48px; }
-    .logo { width: 260px; }
+    .logo { height: 64px; }
     .flag { width: 66px; height: 66px; }
     .flag-item { min-width: 90px; }
     .marquee-text { font-size: 12px; padding: 10px 0; letter-spacing: 0.12em; }
